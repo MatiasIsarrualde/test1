@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d4c8c62-9686-43f0-8b29-8532f017b260"
+      }
+    },
+    "owner": "isarrualde"
   }
 }
